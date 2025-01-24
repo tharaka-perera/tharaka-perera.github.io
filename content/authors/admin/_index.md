@@ -30,26 +30,26 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: at-symbol
+  #   url: 'mailto:tharakanper@gmail.com'
+  #   label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tharaka-perera
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tharaka-perera
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.au/citations?user=KYXn2qUAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0498-0101
+  - icon: brands/instagram
+    url: https://www.instagram.com/criz_wii
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Wireless Communication
+  - Artificial Intelligence
+  - Geometric Deep Learning
 
 # education:
 #   - area: PhD Artificial Intelligence
@@ -183,4 +183,16 @@ profiles:
 
 ## About Me
 
-Tharaka Perera is a third year PhD student at University of Melbourne, supervised by Prof. Jamie Evans, Dr. Saman Atapattu and Dr. Yuting Fang. He received his BSc Engineering degree from the University of Moratuwa in 2018. His research interests lie primarily in wireless communications and geometric machine learning.
+I am a researcher and engineer with experience in machine learning, wireless network optimization, and classical optimization techniques. Currently pursuing a PhD at the University of Melbourne, my work focuses on AI-driven resource allocation and 5G network planning, where I apply methods like **geometric deep learning** and **computer vision** to tackle practical challenges.
+
+I am particularly interested in developing efficient deep learning models that require minimal labeled data and human input, with the goal of making machine learning more accessible and effective. With a background in software engineering across both backend and frontend technologies, I’ve had the opportunity to engage in the full lifecycle of model development, from research and experimentation to deployment.
+
+Outside of my research, I enjoy tutoring and collaborating with multidisciplinary teams, which has helped me improve my communication skills and learn from others. I’m always eager to explore new ideas and work with diverse teams to contribute to meaningful, scalable solutions.
+
+<!-- I am a researcher and engineer with a strong foundation in machine learning, wireless network optimization, and classical optimization techniques, driven by a passion for solving real-world problems through interdisciplinary collaboration. Currently pursuing a PhD at the University of Melbourne, my research focuses on AI-driven resource allocation and 5G network planning, leveraging innovative methods like geometric deep learning and computer vision.
+
+My expertise lies in developing efficient deep learning models that minimize the need for labeled data and human intervention, pushing the boundaries of what’s possible in modern machine learning. With a comprehensive background in software engineering, spanning both backend and frontend technologies, I excel in managing the full lifecycle of model development—from initial research and experimentation to deployment and scaling.
+
+Beyond my academic pursuits, I am passionate about teaching, mentoring, and working with cross-disciplinary teams. These experiences have sharpened my technical communication skills and fostered a commitment to building a community of innovation. I am always excited to explore cutting-edge technologies and collaborate with diverse teams to create impactful, scalable solutions that address real-world challenges. -->
+
+<!-- Tharaka Perera is a third year PhD student at University of Melbourne, supervised by Prof. Jamie Evans, Dr. Saman Atapattu and Dr. Yuting Fang. He received his BSc Engineering degree from the University of Moratuwa in 2018. His research interests lie primarily in wireless communications and geometric machine learning. -->
